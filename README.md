@@ -18,5 +18,5 @@ then add at the end of this file `exports.CryptoJS = CryptoJS;`
 
 Ref: 
 - [CommonJS Modules in Titanium](https://wiki.appcelerator.org/display/guides2/CommonJS+Modules+in+Titanium)
-- [http://stackoverflow.com/questions/15357375/using-cryptojs-library-in-a-titanium-mobile-project-to-decrypt-a-text-message](http://stackoverflow.com/questions/15357375/using-cryptojs-library-in-a-titanium-mobile-project-to-decrypt-a-text-message)
+- [Using “CryptoJS” library in a Titanium mobile project to decrypt a text message [Triple DES]](http://stackoverflow.com/questions/15357375/using-cryptojs-library-in-a-titanium-mobile-project-to-decrypt-a-text-message)
 - [TripleDES implementation in Javascript different comparing with C#] (http://stackoverflow.com/questions/20247953/tripledes-implementation-in-javascript-different-comparing-with-c-sharp)
