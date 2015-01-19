@@ -1,0 +1,28 @@
+"Window": {
+	layout: "vertical",
+	backgroundColor: "white"
+}
+"Label": {
+	width: '90%',
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT,
+	color: "#000"
+}
+"View": {
+	height: Ti.UI.SIZE
+}
+"TextField": {
+	borderWidth: 1,
+	borderColor: "silver",
+	right: 10,
+	left: 10,
+	height: 50
+}
+".hr": {
+	height: 1,
+	backgroundColor: 'gray',
+	top: 20,
+	bottom: 20
+}
+"#hexadecimal": {
+	color: 'silver'
+}
