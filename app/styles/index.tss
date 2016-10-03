@@ -1,28 +1,30 @@
-"Window": {
-	layout: "vertical",
-	backgroundColor: "white"
+'Window' : {
+	backgroundColor: 'white'
 }
-"Label": {
+'ScrollView' : {
+	layout: 'vertical'
+}
+'Label' : {
 	width: '90%',
 	textAlign: Titanium.UI.TEXT_ALIGNMENT_LEFT,
-	color: "#000"
+	color: '#000'
 }
-"View": {
+'View' : {
 	height: Ti.UI.SIZE
 }
-"TextField": {
+'TextField' : {
 	borderWidth: 1,
-	borderColor: "silver",
+	borderColor: 'silver',
 	right: 10,
 	left: 10,
 	height: 50
 }
-".hr": {
+'.hr' : {
 	height: 1,
 	backgroundColor: 'gray',
 	top: 20,
 	bottom: 20
 }
-"#hexadecimal": {
+'#hexadecimal' : {
 	color: 'silver'
 }

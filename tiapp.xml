@@ -14,6 +14,7 @@
     <guid>612d9c0b-bfad-4b96-9469-22eb523ce9a8</guid>
     <property name="ti.ui.defaultunit" type="string">dp</property>
     <ios>
+        <enable-launch-screen-storyboard>true</enable-launch-screen-storyboard>
         <plist>
             <dict>
                 <key>UISupportedInterfaceOrientations~iphone</key>
@@ -55,7 +56,7 @@
         <target device="iphone">true</target>
         <target device="mobileweb">true</target>
     </deployment-targets>
-    <sdk-version>3.5.0.GA</sdk-version>
+    <sdk-version>5.5.1.GA</sdk-version>
     <plugins>
         <plugin version="1.0">ti.alloy</plugin>
     </plugins>

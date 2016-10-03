@@ -1,20 +1,22 @@
 <Alloy>
 	<Window>
-		<Label top="150">Key :</Label>
-		<Label id="key">THYgfTYgGhfg7dxDFGH65jhkgXZSDFr84fjdX</Label>
+		<ScrollView>
+			<Label top="70">Key :</Label>
+			<Label id="key">OnsiteApp</Label>
 
-		<View class="hr" />
+			<View class="hr"/>
 
-		<TextField id="password" value="P@ssw0rd" />
-		<Button onClick="encrypt">Encrypt</Button>
+			<TextField id="password" value="Samer/12345"/>
+			<Button onClick="encrypt">Encrypt</Button>
 
-		<View class="hr" />
+			<View class="hr"/>
 
-		<TextField id="result" value="fXQAhqmHb9vz9TxObafKHQ==" />
-		<Button onClick="decrypt">Decrypt</Button>
+			<TextField id="result" value="xTlrnWJXkdSHcxOzqnNT1w=="/>
+			<Button onClick="decrypt">Decrypt</Button>
 
-		<View class="hr" />
+			<View class="hr"/>
 
-		<Label id="hexadecimal" />
+			<Label id="hexadecimal"/>
+		</ScrollView>
 	</Window>
 </Alloy>
